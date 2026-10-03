@@ -32,6 +32,10 @@ und fragt, ob sie geladen werden soll. Der Hinweis kommt bei jedem Start wieder,
 Installiert wird beim Neustart oder beim Beenden – nie während einer Partie. Spielstände und Einstellungen bleiben
 erhalten. Abschalten lässt sich die Suche unter **Einstellungen → Beim Start nach Updates suchen**.
 
+**Testversionen:** Neue Versionen erscheinen hier zuerst als „Pre-release“ mit dem Zusatz „Testversion“ und werden
+nach dem Ausprobieren für alle freigegeben. Wer sie früher haben möchte, schaltet im Spiel
+**Einstellungen → Testversionen erhalten** ein. Testversionen können noch Fehler enthalten.
+
 **Version 0.26.1 oder älter installiert?** Diese Versionen finden keine Updates mehr. Einfach einmal das neue Setup
 herunterladen und installieren – es ersetzt die alte Version, Spielstände und Einstellungen bleiben erhalten. Danach
 kommen Updates wieder von selbst.
