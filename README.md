@@ -53,11 +53,13 @@ siehe oben), und im Mehrspieler mit dem Server oder PC, den man selbst auswählt
 
 ## Herkunft
 
-Grafik, Modelle, Karten und Klänge werden vom Spiel selbst erzeugt; es enthält keine Inhalte anderer Spiele.
-Die Stimmen sind mit der Sprachausgabe [Piper](https://github.com/OHF-Voice/piper1-gpl) aus gemeinfreien Aufnahmen
+Grafik, Modelle, Karten, Musik und Klänge werden vom Spiel selbst erzeugt; es enthält keine Inhalte anderer Spiele.
+Fraktionen, Einheiten und ihre Namen sind frei erfunden.
+Die Stimmen sind mit der **KI-Sprachausgabe** [Piper](https://github.com/OHF-Voice/piper1-gpl) aus gemeinfreien Aufnahmen
 (CC0) von [Thorsten-Voice](https://github.com/thorstenMueller/Thorsten-Voice) und
 [dataset-voice-kerstin](https://github.com/rhasspy/dataset-voice-kerstin) erzeugt. Die 3D-Darstellung nutzt
 [three.js](https://threejs.org) (MIT-Lizenz), die Windows-Fassung [Electron](https://www.electronjs.org) (MIT-Lizenz).
+Alle Angaben und Lizenztexte stehen im Spiel unter **Hauptmenü → Über das Spiel**.
 
 Dieses Repository enthält nur die fertigen Downloads; sie werden automatisch veröffentlicht.
 Bis Version 0.21 hiess das Spiel „Stahlsturm“.
